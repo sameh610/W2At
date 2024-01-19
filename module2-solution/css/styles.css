@@ -12,7 +12,7 @@
 .cont {
     position: relative;
     background-color: gray;
-    border: solid gray;
+    border: solid black;
 }
 
 * {
