@@ -4,7 +4,6 @@
 .mh {
     background-color: red;
     border: solid black;
-    position: absolute;
 }
 .row {
     position: relative;
@@ -12,6 +11,8 @@
 
 .cont {
     position: relative;
+    background-color: gray;
+    border: solid gray;
 }
 
 * {
